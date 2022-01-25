@@ -1,5 +1,6 @@
 # prnt.sc random screnshot spam for discord bot
 a bot that post random lightshot url to try to find interesting stuff 
+take random screenshot from prnt.sc and upload them to discord with image preview using a discord bot
 
 pour utiliser le script vous devez installer PyCharm comunity edition et modifier la partie "PASTE YOUR TOKEN HERE" pour le token du bot discord.
 ainsi que executer la comande "pip get discord" dans le terminal.
