@@ -1,4 +1,4 @@
-# lightshotbotfordiscord
+# prnt.sc random screnshot spam for discord bot
 a bot that post random lightshot url to try to find interesting stuff 
 
 pour utiliser le script vous devez installer PyCharm comunity edition et modifier la partie "PASTE YOUR TOKEN HERE" pour le token du bot discord.
